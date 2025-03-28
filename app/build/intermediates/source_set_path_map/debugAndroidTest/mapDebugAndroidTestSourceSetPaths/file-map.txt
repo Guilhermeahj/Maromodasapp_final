@@ -1,0 +1,4 @@
+com.maromodasapp.test.app-androidTest-0 C:\Users\Guilherme Augusto\Desktop\maromodas app v2_final_corrigido\app\build\generated\res\resValues\androidTest\debug
+com.maromodasapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\Guilherme Augusto\Desktop\maromodas app v2_final_corrigido\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.maromodasapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\Guilherme Augusto\Desktop\maromodas app v2_final_corrigido\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.maromodasapp.test.app-debugAndroidTest-3 C:\Users\Guilherme Augusto\Desktop\maromodas app v2_final_corrigido\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,7 @@
+#Thu Mar 27 21:34:00 BRT 2025
+base.0=C\:\\Users\\Guilherme Augusto\\Desktop\\maromodas app v2_final_corrigido\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\Guilherme Augusto\\Desktop\\maromodas app v2_final_corrigido\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
